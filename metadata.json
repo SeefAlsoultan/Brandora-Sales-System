@@ -1,0 +1,6 @@
+{
+  "name": "Brandoora Retainer Storefront & Checkout Agency Studio",
+  "description": "An elite premium luxury product storefront and designer personalization co-creation desk for Brandoora's customized stamping library embossers, wax kits, and Saffiano leather carryalls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
